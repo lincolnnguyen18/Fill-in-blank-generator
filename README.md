@@ -1,0 +1,1 @@
+Unzip "fill in the blank generator.zip" into a folder and copy and paste whatever article you want into the input.txt file. Double click the fillInBlankGenerator.exe and the fill in the blank file will be generated in output.txt.
